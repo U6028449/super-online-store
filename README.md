@@ -21,11 +21,11 @@ This is the backend for a retail Ecommerce site
 
 ## Installation
 
-you can download the repo from git my github
+you can download or clone the repo from git my github
 
 ## Usage
 
-please use responsably 
+To use this simply clone the repository, navigate to the project directory, install the dependencies, start the server, and seed the database
 
 ## Links
 https://drive.google.com/file/d/1s6Al7jgonwmIOkvrOnqV6mv4Zifuqppt/view
