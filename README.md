@@ -29,7 +29,9 @@ please use responsably
 
 ## Links
 https://drive.google.com/file/d/1s6Al7jgonwmIOkvrOnqV6mv4Zifuqppt/view
+
 ## Screenshot
+https://github.com/U6028449/super-online-store/blob/main/Assets/super-online-store.png
 
 ## Contributing
 
